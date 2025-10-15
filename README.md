@@ -16,8 +16,8 @@ Asegurar trazabilidad y control de versiones de los documentos base usados para 
 ## Estructura
 ```
 observatorio-mujer-cauca/
-├─ data/ # archivos de datos y tableros (xlsx/csv)
-├─ docs/ # documentos metodológicos y conceptuales
+├─ data/ # Cauca_Bateria de indicadores V1 .xlsx
+├─ docs/ # Marco conceptual v1.docx
 ├─ README.md
 └─ .gitignore
 ``` 
