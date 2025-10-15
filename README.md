@@ -12,3 +12,5 @@ El repositorio se organiza en las siguientes carpetas y documentos clave:
 ## Objetivo
 
 Asegurar trazabilidad y control de versiones de los documentos base usados para análisis, publicación y actualización periódica de indicadores.
+
+## Estructura
