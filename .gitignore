@@ -1,0 +1,18 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Office temporales
+~$*.docx
+~$*.xlsx
+
+# Copias y temporales
+*.tmp
+*.bak
+
+# Virtual envs / editor
+.vscode/
+.idea/
+
+# Mac zips ocultos
+__MACOSX/
